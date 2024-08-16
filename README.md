@@ -1,5 +1,7 @@
 # project4
 
+Group: Anish Posim Reddy, Carson Hom, Johnny Castillo
+
 ## 2-Approximation for TSP
 
 ## Description
